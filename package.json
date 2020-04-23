@@ -14,7 +14,7 @@
     "testEnvironment": "node"
   },
   "keywords": [],
-  "author": "Joel Watson, Daniel Nguyen, Randee Orion, Blandine Dasilveira, & Madison Stehle",
+  "author": "Joel Watson, Daniel Nguyen, & Blandine Dasilveira",
   "license": "ISC",
   "dependencies": {
     "base-64": "^0.1.0",

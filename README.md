@@ -2,13 +2,12 @@
 
 ## OAuth
 
-### Authors: Joel Watson, Daniel Nguyen, Randee Orion, Blandine Dasilveira, & Madison Stehle
+### Authors: Joel Watson, Daniel Nguyen, & Blandine Dasilveira
 
 ### Links and Resources
 
-- [Pull Request](https://github.com/401-advanced-javascript-joel/notes/pull/#)
-- [CI/CD](https://github.com/401-advanced-javascript-joel/notes/runs/#)
-- [Heroku](https://jdrbm-oauth-server.herokuapp.com/)
+- [Heroku](https://jdb-oauth-server.herokuapp.com/)
+- [Report]
 
 ### Setup
 
@@ -18,10 +17,6 @@
 
 - `npm start`
 
-#### Tests
-
-- `npm test`
-
 #### UML
 
-![UML](https://drive.google.com/uc?export=view&id=#)
+![UML](https://drive.google.com/uc?export=view&id=1XpIpaGdY3uwNkEhyBnpEmOLvcD-oPgPi)
