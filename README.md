@@ -2,12 +2,13 @@
 
 ## OAuth
 
-### Authors: Joel Watson, Daniel Nguyen, & Randee Orion
+### Authors: Joel Watson, Daniel Nguyen, Randee Orion, Blandine Dasilveira, & Madison Stehle
 
 ### Links and Resources
 
 - [Pull Request](https://github.com/401-advanced-javascript-joel/notes/pull/#)
 - [CI/CD](https://github.com/401-advanced-javascript-joel/notes/runs/#)
+- [Heroku](https://jdrbm-oauth-server.herokuapp.com/)
 
 ### Setup
 
