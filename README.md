@@ -7,7 +7,7 @@
 ### Links and Resources
 
 - [Heroku](https://jdb-oauth-server.herokuapp.com/)
-- [Report]
+- [Report](https://github.com/401-advanced-javascript-joel/oauth/blob/master/REPORT.md)
 
 ### Setup
 
