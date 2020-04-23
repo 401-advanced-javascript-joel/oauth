@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Auth Test</title>
+    </head>
+
+    <body>
+        <main>
+            <a id="oauth" href="#">Login</a>
+        </main>
+
+        <script>
+            // TODO: What is this URL used for?
+            let URL = 'https://github.com/login/oauth/authorize';
+
+            // TODO: What do each of these key-value pairs mean?
+            let options = {
+                client_id: '35e8de24061ca19f4296',
+                redirect_uri: 'http://localhost:3000/oauth',
+                scope: 'read:user',
+                state: 'asldfjdfs',
+            };
+
+            // TODO: What is this map function doing?
+            let QueryString = Object.keys(options)
+                .map((key) => {
+                    return `${key}=` + encodeURIComponent(options[key]);
+                })
+                .join('&');
+
+            let authURL = `${URL}?${QueryString}`;
+
+            let link = document.getElementById('oauth');
+            link.setAttribute('href', authURL);
+        </script>
+    </body>
+</html>
