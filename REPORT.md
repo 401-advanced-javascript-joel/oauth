@@ -1,6 +1,6 @@
-# OAuth Comparative Analysis - < OAuth Provider Name >
+# OAuth Comparative Analysis - < LinkedIn >
 
-Research Conducted By: < Student Names >
+Research Conducted By: Joel Watson, Daniel Nguyen, & Blandine Dasilveira
 
 ## General Comments
 
@@ -10,19 +10,19 @@ Research Conducted By: < Student Names >
 
 #### Pros
 
-< Bulleted List > 
+< Bulleted List >
 
 #### Cons
 
-< Bulleted List > 
+< Bulleted List >
 
 ## Documentation
 
-< Where can you learn how to implement this OAuth provider? > 
+< Where can you learn how to implement this OAuth provider? >
 
 ## Ramp-Up Projections
 
-< How long would/should it take a team of mid-junior developers to implement? > 
+< How long would/should it take a team of mid-junior developers to implement? >
 
 ## Community Support and Adoption levels
 
@@ -30,12 +30,12 @@ Research Conducted By: < Student Names >
 
 ## Links and Resources
 
-< Bulleted List > 
+< Bulleted List >
 
 ## Code Demos
 
-* < Deployed Heroku application link > 
-* < Code repo link >
+- < Deployed Heroku application link >
+- < Code repo link >
 
 ## Operating Instructions
 
