@@ -1,42 +1,48 @@
-# OAuth Comparative Analysis - < OAuth Provider Name >
+# OAuth Comparative Analysis - LinkedIn >
 
-Research Conducted By: < Student Names >
+Research Conducted By: Joel Watson, Daniel Nguyen, & Blandine Dasilveira
 
 ## General Comments
 
-< Describe the general usability and learnability >
+- Seems very dependent on how good the oauth documentation is for the 3rd party
+- difficulty accross the platforms varies widely.
+- Big take away from this is the importance of good error codes and messages
 
 ## Pros and Cons
 
 #### Pros
 
-< Bulleted List > 
+- not google (way too many end points to understand)
 
 #### Cons
 
-< Bulleted List > 
+- very bad documentation and errors
+- less code changes than some others (auth0 and google)
 
 ## Documentation
 
-< Where can you learn how to implement this OAuth provider? > 
+- [Get Access Token](https://docs.microsoft.com/en-us/linkedin/shared/authentication/authorization-code-flow?context=linkedin/context)
+- [Use Access Token](https://docs.microsoft.com/en-us/linkedin/consumer/integrations/self-serve/sign-in-with-linkedin)
 
 ## Ramp-Up Projections
 
-< How long would/should it take a team of mid-junior developers to implement? > 
+This should probably only take a few hours with good documentation but could take way longer if not well documented
 
 ## Community Support and Adoption levels
 
-< How popular is this provider? What big companies are running on it? >
+Pretty popular (millions of users)
 
 ## Links and Resources
 
-< Bulleted List > 
+Google >=(
 
 ## Code Demos
 
-* < Deployed Heroku application link > 
-* < Code repo link >
+- https://jdb-oauth-server.herokuapp.com/
+- https://github.com/401-advanced-javascript-joel/oauth
 
 ## Operating Instructions
 
-< If someone were to download your repo (above), what steps do they need to take to run the application >
+`npm install`
+
+`npm start`
